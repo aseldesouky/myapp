@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "myappproject-dev-20190726234055-authRole",
+            "UnauthRoleArn": "arn:aws:iam::009056920464:role/myappproject-dev-20190726234055-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::009056920464:role/myappproject-dev-20190726234055-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "myappproject-dev-20190726234055-deployment",
+            "UnauthRoleName": "myappproject-dev-20190726234055-unauthRole",
+            "StackName": "myappproject-dev-20190726234055",
+            "StackId": "arn:aws:cloudformation:us-east-1:009056920464:stack/myappproject-dev-20190726234055/abe0aa70-afe5-11e9-aa0c-128a65397f5a"
+        },
+        "categories": {
+            "auth": {
+                "myappprojectb88b4d6d": {}
+            }
+        }
+    }
+}
