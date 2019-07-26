@@ -15,5 +15,25 @@
                 "myappprojectb88b4d6d": {}
             }
         }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "myappproject-prod-20190727003408-authRole",
+            "UnauthRoleArn": "arn:aws:iam::009056920464:role/myappproject-prod-20190727003408-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::009056920464:role/myappproject-prod-20190727003408-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "myappproject-prod-20190727003408-deployment",
+            "UnauthRoleName": "myappproject-prod-20190727003408-unauthRole",
+            "StackName": "myappproject-prod-20190727003408",
+            "StackId": "arn:aws:cloudformation:us-east-1:009056920464:stack/myappproject-prod-20190727003408/1af38e30-afed-11e9-8c82-0e3e6f4b77b8"
+        },
+        "categories": {
+            "auth": {
+                "myappprojectb88b4d6d": {}
+            },
+            "function": {
+                "books": {}
+            }
+        }
     }
 }
